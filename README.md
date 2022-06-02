@@ -1,5 +1,7 @@
-# Example Package
+# Pypi package blueprint
+This is a blueprint for pypi packages.
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Default this comes with a MIT licence.
+
+## Before you start
+Make sure to change your project's info in the [setup](setup.cfg) file!
