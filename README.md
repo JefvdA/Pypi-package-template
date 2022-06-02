@@ -59,7 +59,7 @@ python3 -m twine upload dist/*
 ```
 This command will ask for your credentials (username and password), you need to log in before uploading. You can create an account [here](https://pypi.org/account/register/).
 
-Click [here]() to see how you can install and use your package in another python project.
+Click [here](#importing-the-package) to see how you can install and use your package in another python project.
 
 ### TestPyPi
 As TestPyPi is not twine's default registery, we need to specify the registery we want to use in the command:
@@ -69,7 +69,7 @@ python3 -m twine upload --repository testpypi dist/*
 
 This command will ask for your credentials (username and password), you need to log in before uploading. Be aware, TestPyPi uses it's own servers, and you need a different account then for PyPi. You can create a TestPyPi account [here](https://test.pypi.org/account/register/).
 
-Click [here]() to see how you can install and use your package in another python project.
+Click [here](#importing-the-package) to see how you can install and use your package in another python project.
 
 ## <u>Importing your package</u>
 Now that your package is uploaded to the python registery, you can install it with pip, and use it in other python projects.
