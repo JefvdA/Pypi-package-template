@@ -8,6 +8,10 @@ Add your package's source code to the "src" directory.
 
 Make sure to change your project's info in the [setup](setup.cfg) file!
 
+## <u>What's included?</u>
+- tests module (excluded from package builds)
+- Makefile with some simple commands
+
 ## <u>Building your package</u>
 To build your package you will need to install build with pip.
 
