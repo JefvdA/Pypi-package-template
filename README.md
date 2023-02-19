@@ -87,7 +87,7 @@ pip install -i https://test.pypi.org/simple/ [package name]
 ```
 
 ### Importing the package
-Now that we have succesfully installed our pip package, we can move on.
+Now that we have successfully installed our pip package, we can move on.
 
 If you are not sure, you can get a list of all currently installed pip packages with following command:
 ```bash
@@ -104,9 +104,9 @@ example.add_one(4) # This will return 5
 
 Be aware, after from doesn't come the name of the package, it is the name of a module specified in the [src](./src/) directory.
 
-## <u>Goodluck</u>
+## <u>Good luck</u>
 I don't know who will ever read this, but if you are reading this now, thank you!
 
 I wish you good luck on your next coding adventures, and hope you will one day create an amazing pip package!
 
-@2022 Jef van der Aviort
+@2022 Jef van der Avoirt
